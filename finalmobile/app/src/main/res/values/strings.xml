@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Mawaddah Nasifah Alda Sakti</string>
+    <string name="judul">judul</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="login">Login</string>
+    <string name="nama">Nama</string>
+    <string name="logout">Logout</string>
+    <string name="hasil">hasil</string>
+    <string name="description">description</string>
+    <string-array name="judul_music">
+
+        <item>andmesh</item>
+        <item>keisyalevronka</item>
+        <item>nadhifbasalamah</item>
+        <item>zivamagnolya</item>
+        <item>virgoun</item>
+        <item>mahen</item>
+        <item>tulus</item>
+        <item>mahalini</item>
+        <item>mahalini</item>
+        <item>lyodra</item>
+        <item>keisyalevronka</item>
+        <item>anggimarito</item>
+        <item>awdella</item>
+        <item>aanstoryfeatelsya</item>
+        <item>tiaraandini</item>
+
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>Lagu Hanya Rindu karya Andmesh Kamaleng menceritakan tentang perasaan rindu seorang anak terhadap sosok ibunya yang sudah meninggal. Andmesh memiliki penyesalan dalam dirinya karena tidak bisa mengulang waktu bersama kembali dengan ibunya.</item>
+        <item>Lagu Jadi Kekasihku Saja menceritakan tentang sindiran dari seorang wanita kepada pria yang sudah lama dekat dengannya. Merasa sudah dekat sang wanita ingin segera dipinang menjadi kekasih dari pria tersebut.</item>
+        <item>Meskipun lirik lagu ini berfokus pada perasaan cinta antara seorang pria dan wanita, ternyata lagu ini adalah dedikasi kepada ibunya, yang dijuluki sebagai penjaga hati. Nadhif merayakan kehadiran ibunya dan mengungkapkan cintanya dalam lirik.</item>
+        <item>Lagu Peri Cintaku menceritakan tentang kisah cinta dua sejoli yang berbeda agama, di mana mereka sedang berduka karena harus merelakan cintanya karena tidak bisa bersatu. Perbedaan keyakinan itu telah membuat jalan cinta kasih pasangan tersebut menjadi rumit.</item>
+        <item>Saat Kau Telah Mengerti adalah lagu terbaru dari penyanyi asal Indonesia Virgoun, yang dirilis pada 13 Januari 2023 lalu. Lagu Saat Kau Telah Mengerti mempunyai arti bahwa kasih sayang seorang Ayah kepada anak perempuan tidak pernah pudar hingga sang putri tumbuh dewasa.</item>
+        <item>Makna yang terkandung dalam lirik lagu Seamin Tak Seiman menggambarkan bahwa niat baik dua sejoli untuk dapat bersatu dalam ikatan suci pernikahan terhalang oleh agama yang berbeda, akhirnya dianggap sebagai sebuah ketidakmungkinan.</item>
+        <item>Lagu Sepatu karya Tulus ini menceritakan tentang dua orang yang saling mengisi selalu bersama namun sadar tak mungkin bersatu. Lirik yang digunakan dalam lagu ini bertujuan untuk menceritakan kisah cintanya. Meskipun kisah cintanya tak akan pernah bersatu.</item>
+        <item>Lagu Sial yang dinyanyikan oleh Mahalini mengisahkan sebuah narasi yang tulus tentang penyesalan dalam percintaan. Lirik lagu Sial ini menggambarkan seorang individu yang merasa terkena sial karena telah jatuh cinta kepada orang yang salah.</item>
+        <item>Melalui lagu ini Sisa Rasa, Mahalini ini mengungkapkan perasaan tentang sebuah rasa cinta yang sangat besar dan tulus, sehingga tidak akan pernah hilang serta terus tersisa di hati.</item>
+        <item>Secara garis besar, lagu Tak Dianggap dari Lyodra mengisahkan tentang seorang wanita yang berusaha bertahan dalam hubungan namun terus selalu merasa tersakiti.Hal itu lantaran sang wanita merasa tak dianggap. Namun ada kalanya tingkah dan ucapan sang pria seolah menganggap dirinya penting. Di saat bersamaan, ia juga merasa bahwa dirinya tidak dianggap karena selalu merasa disakiti.</item>
+        <item>Lirik lagu Keisya Levronka Tak Pantas Terluka mengisahkan tentang seseorang yang mencintai temannya dalam diam. Di lagu tersebut, Keisya seakan menyuarakan bahwa harusnya dirinya yang menjadi kekasih dari sang pujaan hati, bukan wanita lain yang hanya bisa menyakiti.</item>
+        <item>Makna lagu Tak Segampang Itu menceritakan tentang seseorang yang masih belum melupakan mantan kekasihnya, dan sulit untuk mencari pengganti dirinya.</item>
+        <item>Tertawan Hati merupakan lagu yang dipopulerkan oleh Awdella. Makna lagu Tertawan Hati secara garis besar mengisahkan tentang seseorang yang sudah tak bisa melanjutkan hubungan yang dijalaninya. Akan tetapi, untuk menyudahinya pun ia tak mau. Namun lagi-lagi ia merasa bahwa untuk berjuang pun ia sudah lelah.</item>
+        <item>Makna dari lagu Trauma, mengisahkan tentang hubungan toxic antara sepasang kekasih. Lagu ini menceritakan seseorang yang ingin mengakhiri hubungannya dengan pasangannya karena mengalami trauma. Trauma tersebut muncul karena perjuangan dan pengorbanan yang telah dilakukan dianggap sepele dan tidak dihargai.</item>
+        <item>Lirik lagu Usai menggambarkan perasaan kesedihan yang mendalam setelah kehilangan seseorang atau sesuatu yang berarti dalam hidup. Lagu ini mencerminkan pengalaman manusia yang umum dalam menghadapi kehilangan dan kegagalan.</item>
+
+    </string-array>
+    <array name="music_id">
+        <item>@raw/andmeshhanyarindu</item>
+        <item>@raw/keisyalevronkajadikekasihkusaja</item>
+        <item>@raw/nadhifbasalamahpenjagahati</item>
+        <item>@raw/zivamagnolyapericintaku</item>
+        <item>@raw/virgounsaatkautelahmengerti</item>
+        <item>@raw/mahenseamintakseiman</item>
+        <item>@raw/tulussepatu</item>
+        <item>@raw/mahalinisial</item>
+        <item>@raw/mahalinisisarasa</item>
+        <item>@raw/lyodratakdianggap</item>
+        <item>@raw/keisyalevronkatakpantasterluka</item>
+        <item>@raw/anggimaritotaksegampangitu</item>
+        <item>@raw/awdellatertawanhati</item>
+        <item>@raw/aanstoryfeatelsyatrauma</item>
+        <item>@raw/tiaraandiniusai</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/hanyarindu</item>
+        <item>@drawable/jadikekasihkusaja</item>
+        <item>@drawable/penjagahati</item>
+        <item>@drawable/pericintaku</item>
+        <item>@drawable/saatkautelahmengerti</item>
+        <item>@drawable/seamintakseiman</item>
+        <item>@drawable/sepatu</item>
+        <item>@drawable/sial</item>
+        <item>@drawable/sisarasa</item>
+        <item>@drawable/takdianggap</item>
+        <item>@drawable/takpantasterluka</item>
+        <item>@drawable/taksegampangitu</item>
+        <item>@drawable/tertawanhati</item>
+        <item>@drawable/trauma</item>
+        <item>@drawable/usai</item>
+
+    </integer-array>
+</resources>
